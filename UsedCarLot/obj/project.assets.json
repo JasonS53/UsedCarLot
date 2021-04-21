@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jms_s\\.nuget\\packages\\": {}
+    "C:\\Users\\skala\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jms_s\\source\\repos\\UsedCarLot\\UsedCarLot\\UsedCarLot.csproj",
+      "projectUniqueName": "C:\\Users\\skala\\source\\repos\\Car_project\\UsedCarLot\\UsedCarLot\\UsedCarLot.csproj",
       "projectName": "UsedCarLot",
-      "projectPath": "C:\\Users\\jms_s\\source\\repos\\UsedCarLot\\UsedCarLot\\UsedCarLot.csproj",
-      "packagesPath": "C:\\Users\\jms_s\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jms_s\\source\\repos\\UsedCarLot\\UsedCarLot\\obj\\",
+      "projectPath": "C:\\Users\\skala\\source\\repos\\Car_project\\UsedCarLot\\UsedCarLot\\UsedCarLot.csproj",
+      "packagesPath": "C:\\Users\\skala\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\skala\\source\\repos\\Car_project\\UsedCarLot\\UsedCarLot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jms_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\skala\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
